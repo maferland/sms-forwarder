@@ -1,0 +1,3 @@
+SMS Forwarder
+flask==0.12
+slacker==0.9.50
